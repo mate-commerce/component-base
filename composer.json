@@ -1,0 +1,12 @@
+{
+  "type": "package",
+  "name": "mate-commerce/component-base",
+  "autoload": {
+    "psr-4": {
+      "MateCommerce\\Component\\Base\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.1"
+  }
+}
